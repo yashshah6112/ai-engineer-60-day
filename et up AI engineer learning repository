@@ -1,0 +1,81 @@
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f1383f4[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32m__pycache__/[m
+[32m+[m[32m*.py[cod][m
+[32m+[m[32m.venv/[m
+[32m+[m[32m.env[m
+[32m+[m[32m.vscode/settings.json[m
+\ No newline at end of file[m
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..026552d[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,16 @@[m
+[32m+[m[32m# AI Engineer — 60-Day Learning Journey[m
+[32m+[m
+[32m+[m[32mThis repository documents my 60-day learning journey toward junior AI engineer roles.[m
+[32m+[m
+[32m+[m[32mI am building practical skills in Python, Git, data handling, machine learning fundamentals, APIs, and AI application development.[m
+[32m+[m
+[32m+[m[32m## Repository Structure[m
+[32m+[m
+[32m+[m[32m* `notes/` — Daily learning notes and reflections[m
+[32m+[m[32m* `exercises/` — Small coding exercises and practice[m
+[32m+[m[32m* `projects/` — Portfolio projects built during the journey[m
+[32m+[m
+[32m+[m[32m## Goal[m
+[32m+[m
+[32m+[m[32mBuild practical, public evidence of consistent learning and create projects that demonstrate junior AI engineering skills.[m
+[32m+[m
+[1mdiff --git a/exercises/.gitkeep b/exercises/.gitkeep[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/hello.py b/hello.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a9d43b0[m
+[1m--- /dev/null[m
+[1m+++ b/hello.py[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32mfrom datetime import date[m
+[32m+[m
+[32m+[m[32mname = "Yash Shah"[m[41m [m
+[32m+[m
+[32m+[m[32mprint(name)[m
+[32m+[m[32mprint(date.today().isoformat())[m
+[32m+[m[32mprint("I am building toward junior AI engineer roles.")[m
+[32m+[m
+[32m+[m
+[1mdiff --git a/notes/day-01.md b/notes/day-01.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1bd704d[m
+[1m--- /dev/null[m
+[1m+++ b/notes/day-01.md[m
+[36m@@ -0,0 +1,19 @@[m
+[32m+[m[32m# Day 01 — Foundations and Setup[m
+[32m+[m
+[32m+[m[32m**Date completed:** YYYY-MM-DD[m
+[32m+[m
+[32m+[m[32m## Today’s outcome[m
+[32m+[m[32mI created my local AI Engineer learning workspace and connected it to GitHub.[m
+[32m+[m
+[32m+[m[32m## Tools installed[m
+[32m+[m[32m- Python: `Python X.Y.Z`[m
+[32m+[m[32m- VS Code: Installed[m
+[32m+[m[32m- VS Code Python extension: Installed[m
+[32m+[m[32m- Git: `git version X.Y.Z`[m
+[32m+[m[32m- GitHub account: Ready[m
+[32m+[m
+[32m+[m[32m## Commands verified[m
+[32m+[m[32m```powershell[m
+[32m+[m[32mpython --version[m
+[32m+[m[32mgit --version[m
+[32m+[m[32mpython hello.py[m
+\ No newline at end of file[m
+[1mdiff --git a/projects/.gitkeep b/projects/.gitkeep[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
