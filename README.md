@@ -14,3 +14,7 @@ I am building practical skills in Python, Git, data handling, machine learning f
 
 Build practical, public evidence of consistent learning and create projects that demonstrate junior AI engineering skills.
 
+## Day 3 Learning Notes
+
+* Cleaned messy text using string methods such as `strip()`, `split()`, and `replace()`.
+* Created a reusable Python function and used a loop to format multiple fake support requests.
